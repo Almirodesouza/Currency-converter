@@ -101,7 +101,7 @@ section {
     color: #777777;
 }
 
-.money {
+.money-Dolar, .money-Real {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
