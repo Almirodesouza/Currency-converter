@@ -96,7 +96,7 @@ section {
     gap: 4px;
 }
 
-.coin {
+.coin-two, .coin-one {
     font-size: 14px;
     color: #777777;
 }
